@@ -1,8 +1,8 @@
-package priv.bluerhino.java;
-
-import static org.junit.Assert.assertTrue;
+package priv.bluerhino.java.playground;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

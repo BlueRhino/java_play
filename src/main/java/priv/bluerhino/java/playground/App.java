@@ -1,10 +1,10 @@
-package priv.bluerhino.java;
+package priv.bluerhino.java.playground;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
