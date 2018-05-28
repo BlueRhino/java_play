@@ -11,6 +11,8 @@
     <modules>
         <module>nio</module>
         <module>guice</module>
+        <module>juc</module>
+        <module>leetcode</module>
     </modules>
 
     <name>playground</name>
