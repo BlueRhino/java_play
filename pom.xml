@@ -13,6 +13,7 @@
         <module>guice</module>
         <module>juc</module>
         <module>leetcode</module>
+        <module>mybatis</module>
     </modules>
 
     <name>playground</name>
