@@ -1,4 +1,4 @@
-package priv.bluerhino.java.playground.mybatis.leetcode.interview.questions.easy;
+package priv.bluerhino.java.playground.leetcode.interview.questions.easy;
 
 /**
  * Created by niekunlin @ 18/5/29.

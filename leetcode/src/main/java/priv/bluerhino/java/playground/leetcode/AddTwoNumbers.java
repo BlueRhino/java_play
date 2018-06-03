@@ -1,4 +1,4 @@
-package priv.bluerhino.java.playground.mybatis.leetcode;
+package priv.bluerhino.java.playground.leetcode;
 
 /**
  * Created by niekunlin @ 18/5/28.
