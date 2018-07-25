@@ -14,7 +14,7 @@
         <module>juc</module>
         <module>leetcode</module>
         <module>mybatis</module>
-        <module>gauva</module>
+        <module>guava</module>
     </modules>
 
     <name>playground</name>
