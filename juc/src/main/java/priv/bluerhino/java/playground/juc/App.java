@@ -1,4 +1,4 @@
-package priv.bluerhino.java.playground.guava.mybatis.leetcode.juc;
+package priv.bluerhino.java.playground.juc;
 
 import java.io.IOException;
 import java.util.concurrent.locks.Lock;
